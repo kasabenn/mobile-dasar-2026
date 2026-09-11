@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Belajar Storage"
+rootProject.name = "Android Dasar"
 include(":app")
